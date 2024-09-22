@@ -1,0 +1,27 @@
+.navbar-nav {
+    position: absolute;
+    right: 100px;
+}
+
+.navbar-brand {
+    padding: 30px;
+    font-size: 40px;
+    color: rgb(87, 82, 82);
+}
+
+.nav-item {
+    padding: 0 20px 0 20px;
+}
+
+.active {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.container {
+    text-align: center;
+}
+
+.app {
+    padding: 20px;
+}
